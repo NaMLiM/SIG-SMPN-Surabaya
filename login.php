@@ -29,10 +29,10 @@ https://templatemo.com/tm-538-digital-trend
 
 </head>
 
-<body>
+<body style="background-image: url(images/bg_login.jpg); background-size: cover;">
 
   <!-- FORM -->
-  <section class="contact section-padding">
+  <section class="section-padding-half">
     <div class="container">
       <div class="row">
 
@@ -41,18 +41,15 @@ https://templatemo.com/tm-538-digital-trend
             <img src="images/logo_dinas.png" alt="logo" width="300">
           </div>
         </div>
-
         <div class="col-lg-8 mx-auto col-md-10 col-12">
-
           <!-- Follow https://templatemo.com/contact page to setup your own contact form -->
-
           <form action="#" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
             <div class="row">
               <div class="col-lg-12">
                 <input type="text" class="form-control" name="userrname" placeholder="Username">
               </div>
             </div>
-            <div class=row>
+            <div class="row">
               <div class="col-lg-12">
                 <input type="password" class="form-control" name="password" placeholder="Password">
               </div>
@@ -65,7 +62,6 @@ https://templatemo.com/tm-538-digital-trend
         </form>
       </div>
 
-    </div>
     </div>
   </section>
 
