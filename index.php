@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,7 +36,7 @@ https://templatemo.com/tm-538-digital-trend
         <div class="container">
             <a class="navbar-brand" href="index.html">
               <img src="images/logo1.png" alt="" width="60">
-              Data SMP N Surabaya
+              Data SMP Negeri Surabaya
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -45,16 +47,7 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link smoothScroll">Studio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="blog.html" class="nav-link">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Login</a>
+                        <a href="login" class="nav-link contact">Login</a>
                     </li>
                 </ul>
             </div>
@@ -72,7 +65,7 @@ https://templatemo.com/tm-538-digital-trend
 
                                    <h1 class="text-white" data-aos="fade-up">Selamat Datang di Sistem Informasi Geografis SMP Negeri Kota Surabaya</h1>
 
-                                   <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Lihat Data</a>
+                                   <a href="peta.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Lihat Peta</a>
                               </div>
                         </div>
 
