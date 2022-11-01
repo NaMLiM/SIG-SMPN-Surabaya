@@ -46,7 +46,7 @@ https://templatemo.com/tm-538-digital-trend
           <form action="#" method="post" class="contact-form" data-aos="fade-up" data-aos-delay="300" role="form">
             <div class="row">
               <div class="col-lg-12">
-                <input type="text" class="form-control" name="userrname" placeholder="Username">
+                <input type="text" class="form-control" name="username" placeholder="Username">
               </div>
             </div>
             <div class="row">
