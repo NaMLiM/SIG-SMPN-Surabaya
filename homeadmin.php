@@ -45,7 +45,7 @@ https://templatemo.com/tm-538-digital-trend
                <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                          <li class="nav-item">
-                              <a href="login.php" class="nav-link contact">Tambah Data</a>
+                              <a href="inputdata.php" class="nav-link contact">Tambah Data</a>
                          </li>
                     </ul>
                </div>
