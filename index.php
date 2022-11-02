@@ -89,148 +89,29 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-7 mx-auto col-md-10 col-12">
                          <div class="about-info">
 
-                              <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
+                              <h2 class="mb-4" data-aos="fade-up">Tentang Data <strong>SMP Negri Surabaya </strong></h2>
 
-                              <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page.
-                                   <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.
+                              <p class="mb-0" data-aos="fade-up">Data SMP Negeri Surabaya Adalah Website Penyedia Informasi Terkait Dengan Seluruh Sekolah Dasar Negri yang Terletak di Kota Surabaya.
+                                   <p>Website ini Menanpilkan Informasi Seperti Alamat, Jumlah Pagu, Visi, Misi, Dll.
                               </p>
                          </div>
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
 
-                              <img src="images/office.png" class="img-fluid" alt="office">
+                          <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=2048&amp;height=385&amp;hl=en&amp;q=surabaya&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                          </iframe><a href="https://proxysite.pro">proxysite</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:385px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:385px;}.gmap_iframe {height:385px!important;}</style></div>
                          </div>
                     </div>
-
                </div>
           </div>
      </section>
 
 
      <!-- PROJECT -->
-     <section class="project section-padding" id="project">
-          <div class="container-fluid">
-               <div class="row">
-
-                    <div class="col-lg-12 col-12">
-
-                         <h2 class="mb-5 text-center" data-aos="fade-up">
-                              Please take a look through our
-                              <strong>featured Digital Trends</strong>
-                         </h2>
-
-                         <div class="owl-carousel owl-theme" id="project-slide">
-                              <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="images/project/project-image01.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Marketing</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Sweet Go Agency</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image02.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Website</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Smart Ladies</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image03.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Branding</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Shoes factory</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image04.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Social Media</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Race Bicycle</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="images/project/project-image05.jpg" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Video</small>
-
-                                        <h3>
-                                             <a href="project-detail.html">
-                                                  <span>Ultimate HealthCare</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-                         </div>
-                    </div>
-
-               </div>
-          </div>
-     </section>
-
-
      <!-- TESTIMONIAL -->
      <section class="testimonial section-padding">
           <div class="container">
-               <div class="row">
-
-                    <div class="col-lg-6 col-md-5 col-12">
-                         <div class="contact-image" data-aos="fade-up">
-
-                              <img src="images/female-avatar.png" class="img-fluid" alt="website">
-                         </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-7 col-12">
-                         <h4 class="my-5 pt-3" data-aos="fade-up" data-aos-delay="100">Client Testimonials</h4>
-
-                         <div class="quote" data-aos="fade-up" data-aos-delay="200"></div>
-
-                         <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.</h2>
-
-                         <p data-aos="fade-up" data-aos-delay="400">
-                              <strong>Mary Zoe</strong>
-
-                              <span class="mx-1">/</span>
-
-                              <small>Digital Agency (CEO)</small>
-                         </p>
-                    </div>
-
-               </div>
+               
           </div>
      </section>
 
@@ -240,59 +121,37 @@ https://templatemo.com/tm-538-digital-trend
                <div class="row">
 
                     <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
-                         <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We make creative <strong>brands</strong> only.</h1>
+                         <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">Sistem Informasi Geografis <strong>SMP N Surabaya</strong></h1>
                     </div>
 
                     <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
-                         <h4 class="my-4">Contact Info</h4>
+                         <h4 class="my-4">Informasi Kontak</h4>
 
                          <p class="mb-1">
                               <i class="fa fa-phone mr-2 footer-icon"></i>
-                              +99 080 070 4224
+                              +62 857 7834 9082 
                          </p>
 
                          <p>
                               <a href="#">
                                    <i class="fa fa-envelope mr-2 footer-icon"></i>
-                                   hello@company.com
+                                   disdikbud@gmail.com
                               </a>
                          </p>
                     </div>
 
                     <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
-                         <h4 class="my-4">Our Studio</h4>
+                         <h4 class="my-4">Alamat</h4>
 
                          <p class="mb-1">
                               <i class="fa fa-home mr-2 footer-icon"></i>
-                              Av. Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ, Brazil
+                              Jalan Jagir Wonokromo No.354-356, Sidosermo, Wonokromo, Sidosermo, Wonocolo, Kota SBY, Jawa Timur 60244, Indonesia.
                          </p>
                     </div>
 
                     <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
-                         <p class="copyright-text">Copyright &copy; 2020 Your Company
-                              <br>
-                              <a rel="nofollow noopener" href="https://templatemo.com">Design: TemplateMo</a>
-                         </p>
+                         <p class="copyright-text">Copyright &copy; SIG Kelompok 1 </p>
                     </div>
-
-                    <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
-
-                         <ul class="footer-link">
-                              <li><a href="#">Stories</a></li>
-                              <li><a href="#">Work with us</a></li>
-                              <li><a href="#">Privacy</a></li>
-                         </ul>
-                    </div>
-
-                    <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
-                         <ul class="social-icon">
-                              <li><a href="#" class="fa fa-instagram"></a></li>
-                              <li><a href="#" class="fa fa-twitter"></a></li>
-                              <li><a href="#" class="fa fa-dribbble"></a></li>
-                              <li><a href="#" class="fa fa-behance"></a></li>
-                         </ul>
-                    </div>
-
                </div>
           </div>
      </footer>
