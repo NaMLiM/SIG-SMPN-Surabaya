@@ -29,7 +29,7 @@ https://templatemo.com/tm-538-digital-trend
 
 </head>
 
-<body style="background-image: url(images/bg_login.jpg); background-size: cover;">
+<body style="background-image: url(images/bglogin2.png); background-size: cover;">
 
   <!-- FORM -->
   <section class="section-padding-half">
