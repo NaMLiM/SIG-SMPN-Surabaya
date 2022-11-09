@@ -59,7 +59,7 @@ https://templatemo.com/tm-538-digital-trend
                     <div class="col-lg-6 col-md-15 col-20 d-flex flex-column justify-content-center align-items-center">
                          <div class="hero-text">
 
-                              <h1 class="text-white" data-aos="fade-up">Selamat Datang Irfan Maulana</h1>
+                              <h1 class="text-white" data-aos="fade-up">Selamat Datang Admin</h1>
 
                               <a href="map.php" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Lihat Peta</a>
                          </div>
