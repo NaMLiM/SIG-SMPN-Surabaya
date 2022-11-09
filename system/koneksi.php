@@ -2,6 +2,6 @@
 $host = "localhost";
 $user = "root";
 $pwd = "";
-$db = "el_crringe";
+$db = "sig_sby";
 
 $koneksi = mysqli_connect($host, $user, $pwd, $db);
