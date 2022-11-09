@@ -1,5 +1,5 @@
 <?php
-if (is_null($_GET['page'])) {
+if (isset($_GET['page'])) {
      $_GET['page'] = 'home';
 }
 ?>
