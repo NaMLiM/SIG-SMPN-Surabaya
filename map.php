@@ -22,7 +22,7 @@
             var map = L.map('map', {
                 zoomControl: true,
                 maxZoom: 28,
-                minZoom: 1
+                minZoom: 12
             })
             var hash = new L.Hash(map);
             map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
