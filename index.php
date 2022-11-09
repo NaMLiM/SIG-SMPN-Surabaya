@@ -1,6 +1,6 @@
 <?php
-if (isset($_GET['page'])) {
-     $_GET['page'] = 'home';
+if (!$_GET["page"]) {
+     header("location:index.php?page=home");
 }
 ?>
 <!DOCTYPE html>
