@@ -1,3 +1,8 @@
+<?php
+if (is_null($_GET['page'])) {
+     $_GET['page'] = 'home';
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,7 +37,11 @@ https://templatemo.com/tm-538-digital-trend
 <body>
 
      <?php
-     include('home.php');
+     if ($_GET['page'] == 'home') {
+          include_once('home.php');
+     } elseif ($_GET['page'] == 'map') {
+          include_once('map.php');
+     }
      ?>
 
      <!-- SCRIPTS -->
