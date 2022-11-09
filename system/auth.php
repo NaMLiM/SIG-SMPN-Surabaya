@@ -18,7 +18,7 @@ if ($num == 0) {
 <?php
 } else {
     while ($data = mysqli_fetch_array($select)) {
-        $_SESSION["nama_user"] = $data["nama"];
+        $_SESSION["username"] = $data["username"];
         $_SESSION["user_lvl"] = $data["user_lvl"];
     }
     if ($_SESSION["user_lvl"] == "dinas") {
